@@ -1,0 +1,4 @@
+{
+    "API_ENDPOINT": "https://api.weather.gov",
+    "FILE_FORMAT": "csv"
+}
